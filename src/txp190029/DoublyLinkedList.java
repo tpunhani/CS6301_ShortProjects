@@ -1,7 +1,9 @@
-package txp190029; /** @author Tarun Punhani(txp190029) and Vishal Puri(vxp190034)
+/** @author Tarun Punhani(txp190029) and Vishal Puri(vxp190034)
  *  Doubly linked list
  *  Ver 1.0: 2021/02/05
  */
+
+package txp190029;
 
 import java.util.NoSuchElementException;
 import java.util.Scanner;

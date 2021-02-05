@@ -1,4 +1,4 @@
-package txp190029; /** @author Tarun Punhani(txp190029) and Vishal Puri(vxp190034)
+ /** @author Tarun Punhani(txp190029) and Vishal Puri(vxp190034)
  *  Singly linked list: for instructional purposes only
  *  Ver 1.0: 2018/08/21
  *  Ver 2.0: 2018/08/28: modified to be able to extend to txp190029.DoublyLinkedList
@@ -16,6 +16,7 @@ public class txp190029.DoublyLinkedList<T> extends txp190029.SinglyLinkedList<T>
 
  */
 
+ package txp190029;
 
 import java.util.Iterator;
 import java.util.Scanner;
