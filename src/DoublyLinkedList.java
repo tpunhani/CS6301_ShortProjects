@@ -1,6 +1,6 @@
-/** @author Tarun Punhani and Vishal Puri
+/** @author Tarun Punhani(txp190029) and Vishal Puri(vxp190034)
  *  Doubly linked list
- *  Ver 1.0: 2021/02/02
+ *  Ver 1.0: 2021/02/05
  */
 
 import java.util.NoSuchElementException;
