@@ -1,12 +1,12 @@
-/** @author Tarun Punhani(txp190029) and Vishal Puri(vxp190034)
+package txp190029; /** @author Tarun Punhani(txp190029) and Vishal Puri(vxp190034)
  *  Singly linked list: for instructional purposes only
  *  Ver 1.0: 2018/08/21
- *  Ver 2.0: 2018/08/28: modified to be able to extend to DoublyLinkedList
+ *  Ver 2.0: 2018/08/28: modified to be able to extend to txp190029.DoublyLinkedList
  *  Entry class has generic type associated with it, to allow inheritance.
  *  We can now have a doubly linked list class DLL that has
 
-public class DoublyLinkedList<T> extends SinglyLinkedList<T> {
-    static class Entry<E> extends SinglyLinkedList.Entry<E> {
+public class txp190029.DoublyLinkedList<T> extends txp190029.SinglyLinkedList<T> {
+    static class Entry<E> extends txp190029.SinglyLinkedList.Entry<E> {
 	Entry<E> prev;
 	Entry(E x, Entry<E> next, Entry<E> prev) {
 	    super(x, nxt);
