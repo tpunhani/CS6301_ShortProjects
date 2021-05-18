@@ -3,7 +3,7 @@
  *  Ver 1.0: 2021/02/05
  */
 
-package txp190029;
+package SP1;
 
 import java.util.NoSuchElementException;
 import java.util.Scanner;

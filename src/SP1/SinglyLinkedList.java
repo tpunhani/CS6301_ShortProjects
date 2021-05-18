@@ -16,7 +16,7 @@ public class txp190029.DoublyLinkedList<T> extends txp190029.SinglyLinkedList<T>
 
  */
 
- package txp190029;
+ package SP1;
 
 import java.util.Iterator;
 import java.util.Scanner;
